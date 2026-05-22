@@ -1,3 +1,3 @@
 # JYOTI 
 hii, I'm Jyoti.
-A Web developer 
+<b> A Web developer </b>
